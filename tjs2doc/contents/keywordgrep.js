@@ -1,4 +1,4 @@
-function Searcher() {
+﻿function Searcher() {
     var spans = document.getElementsByTagName('span');
     var styles = [];
     var text1 = [];
